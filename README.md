@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabra-arretado)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabra-arretado&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cabra-arretado/cabra-arretado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
