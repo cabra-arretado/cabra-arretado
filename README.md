@@ -1,9 +1,9 @@
 ### Welcome to the party, pal! 👋
 
-I am Felipe M. Integration Developer, based in US.
+I am Felipe M. Software Developer, based in US (but originally from Brazil).
 
 
-Pythonista. Aficionado in Neovim.
+Aficionado in Neovim.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabra-arretado&show_icons=true&theme=ayu-mirage)
