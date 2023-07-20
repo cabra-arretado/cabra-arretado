@@ -6,7 +6,7 @@ I am Felipe M. Software Developer, based in US (but originally from Brazil).
 Aficionado in Neovim.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabra-arretado&show_icons=true&theme=ayu-mirage)
+* This shows only langagues used in non-forked repositories:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabra-arretado&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cabra-arretado/cabra-arretado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
