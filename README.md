@@ -1,6 +1,8 @@
 ### Welcome to the party, pal! 👋
 
-I am Felipe M. Software Developer, based in the US (but originally from Brazil). Cabra Arretado is a regional slang from Northeast Brazil that could be translated to English as "wholesome dude".
+I am Felipe M. Software Developer, based in the US (but originally from Brazil).
+
+Cabra Arretado is a regional slang from Northeast Brazil that could be translated to English as "wholesome dude".
 
 
 Aficionado in Neovim.
