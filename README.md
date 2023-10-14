@@ -5,7 +5,7 @@ I am Felipe M. Software Developer, based in the US (but originally from Brazil).
 _**Cabra Arretado**_ is a regional slang from Northeast Brazil that could be translated to English as "wholesome dude".
 
 
-Aficionado in Neovim.
+Aficionado in Vi, Vim and Neovim.
 
 
 This shows only langagues used in non-forked repositories:
