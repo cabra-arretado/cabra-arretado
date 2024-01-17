@@ -1,6 +1,6 @@
 ### Welcome to the party, pal! 👋
 
-I am Felipe M. Software Developer, based in the US (but originally from Brazil).
+I am Felipe, a Software Developer based in the US (but originally from Brazil).
 
 _**Cabra Arretado**_ is a regional slang from Northeast Brazil that could be translated to English as "wholesome dude".
 
@@ -8,7 +8,7 @@ _**Cabra Arretado**_ is a regional slang from Northeast Brazil that could be tra
 Aficionado in Vi, Vim and Neovim.
 
 
-This shows only langagues used in non-forked repositories:
+This shows only languages used in public non-forked repositories:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabra-arretado&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 <!--
